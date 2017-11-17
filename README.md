@@ -75,7 +75,7 @@ http://www.openstm32.org/forumthread2046
 
 ## Developed by
 
-**5730625221 Mr.Sitthichai Saejia**
+[**5730625221 Mr.Sitthichai Saejia**](https://github.com/tueytoma)
 
 **Thank you** "CP41 femily"
 
